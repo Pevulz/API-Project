@@ -3,7 +3,7 @@ import "./App.css";
 function App() {
   return (
     <>
-      <div>League Of Legends</div>
+      <div>League Of Legend</div>
     </>
   );
 }
