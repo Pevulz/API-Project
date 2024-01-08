@@ -1,0 +1,16 @@
+.navContainer {
+  height: 75px;
+  width: 100%;
+  background-color: black;
+  display: flex;
+  align-items: center;
+}
+
+.navTitle {
+  color: yellow;
+  padding-left: 5%;
+}
+
+.navTabs {
+  color: white;
+}
