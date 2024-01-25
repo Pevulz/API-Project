@@ -1,9 +1,12 @@
 import "./App.css";
+import NavBar from "./components/NavagationBar/NavBar";
+import Home from "./components/HomePage/Home";
 
 function App() {
   return (
     <>
-      <div>League Of Legend</div>
+      <NavBar></NavBar>
+      <Home></Home>
     </>
   );
 }
