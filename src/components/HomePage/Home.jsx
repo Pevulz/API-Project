@@ -7,7 +7,7 @@ import { DataDragon } from "data-dragon";
 function Home() {
   const [summonerName, setSummonerName] = useState("");
   const [playerData, setPlayerData] = useState({});
-  const API_KEY = "RGAPI-dbb95b01-ee87-4a55-ace4-22f6f4f9d7c4";
+  const API_KEY = "";
   const dragon = new DataDragon("14.2.1");
 
   console.log(dragon.champions);
